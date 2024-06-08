@@ -3,3 +3,4 @@ mkdocs~=1.1.2
 pymdown-extensions==8.0.1
 pygments~=2.7.3
 mkdocs-macros-plugin==0.4.9
+tornado>=6.4.1 # not directly required, pinned by Snyk to avoid a vulnerability
